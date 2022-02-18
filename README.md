@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Simon
+- 👀 I’m interested in Java and Python
+- 🌱 I’m currently learning Java
+- 💞️ I’m not looking for any collaboration
+- 📫 You can contact me on monchorloff@gmail.com
